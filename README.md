@@ -1,8 +1,7 @@
 ### Hello! I'm Renata Dellamatriz 👋
 
-- 🔭 Currently I'm just here out of curiosity 😂
 - 🌱 Studying to become a Front-end Developer
-- 📫 Contact me on my email: redellamatriz@gmail.com
+- 📫 Contact me on my email: r.dellamatriz@hotmail.com
 
 <div align="left">
   <a href="https://github.com/renatadellamatriz">
