@@ -1,6 +1,6 @@
 ### Hello! I'm Renata Dellamatriz 👋
 
-- 🌱 Studying to become a Front-end Developer
+- 🌱 Front-end Developer
 - 📫 Contact me on my email: r.dellamatriz@hotmail.com
 
 <div align="left">
